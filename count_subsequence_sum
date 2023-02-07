@@ -31,6 +31,6 @@ int main() {
 		arr.push_back(x);
 	}
 	cin>>sum;
-	// cout<<countSubseq(arr,arr.size(),0,sum,0);
+	cout<<countSubseq(arr,arr.size(),0,sum,0);
 	return 0;
 }
