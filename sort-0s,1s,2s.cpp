@@ -1,5 +1,6 @@
 
 // Dutch National Flag problem
+// https://www.geeksforgeeks.org/sort-an-array-of-0s-1s-and-2s/
 #include <bits/stdc++.h> 
 void sortArray(vector<int>& arr, int n)
 {
